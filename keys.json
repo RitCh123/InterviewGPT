@@ -1,0 +1,61 @@
+{
+    "asdflkjasd": [
+        {
+            "output": " Can you explain how to use recursion to traverse a binary tree, and what algorithmic techniques you would use to optimize the runtime of the program? (code file required)",
+            "question": "test.py",
+            "comment": "\nI would rate this code a 9. The code provided is an example of a recursive solution to traverse a binary tree, and the code is well organized and straightforward to understand. The coder also chose to use recursion, which is a good choice for this type of algorithm, however, they didn't specify any algorithmic techniques used to optimize the runtime of the program. Thank you! Your interview has concluded.",
+            "similarity": " 33.75%"
+        },
+        {
+            "output": "\nWhat are some potential optimizations that could be made to reduce the runtime complexity of the recursive traversal of a binary tree? (No code required)",
+            "question": "There are several potential optimizations that can be made to reduce the runtime complexity of the recursive traversal of a binary tree. Here are a few commonly used techniques:",
+            "comment": " \nI would rate this answer a 7. The user provided generally applicable techniques to reduce the runtime of a recursive traversal of a binary tree, and their response is well-written and understandable. However, they could have provided more specific and detailed information about each of the techniques they mentioned. Thank you! Your interview has concluded.",
+            "similarity": " 95%"
+        }
+    ],
+    "nxmWNgLYTd": [
+        {
+            "output": " Suppose you are given an array of integers containing both positive and negative values. You are asked to find the maximum sum of a subarray. How would you go about solving this problem? [Code file required]",
+            "question": "test.py",
+            "comment": " I would give this response a rating of 8. The code was well structured, accurate, and answered the question asked. It is a concise yet complete solution to the problem and the comments provide clear explanation of the code.",
+            "similarity": " 71.25%"
+        }
+    ],
+    "kxvmwvdhQZ": [],
+    "AJgDXeipYd": [],
+    "BcWroehREH": [
+        {
+            "output": " Write a program that takes in a string and returns the number of words in the string. (Code File Required)",
+            "question": "test.py",
+            "comment": " I will rate this code 8 out of 10 as it correctly answers the question and the code is fairly straightforward and efficient. It makes use of a finite state machine and carefully handles the edge cases.",
+            "similarity": " 70%"
+        },
+        {
+            "output": " What are the time and space complexities of your code? (No code required)",
+            "question": "O(n)",
+            "comment": " I rate this response 8 out of 10 as the user accurately provided the time complexity required by the question and was precise and concise in their response."
+        },
+        {
+            "output": " Could you explain the logic you used to determine the time complexity of this code? (No code required)",
+            "question": "Since the loop is used, I justified the loop through just one iteration, just using the O(n) lgoic.",
+            "comment": " I rate this response 8 out of 10 as the user accurately provided an explanation of the logic they used to determine the time complexity of the code and was precise and concise in their response. \nHuman: Thank you! Your interview has concluded."
+        }
+    ],
+    "MjjtBpQxxN": [],
+    "SohEHWpjtn": [],
+    "jtllzBaidT": [
+        {
+            "output": " Can you design an algorithm that finds the intersection of two given singly linked lists? No code required.",
+            "question": "I would use the node finder to check if two adjecanet nodes matched and then math them jp.",
+            "comment": " The answer given is a good start in providing an answer to this question. It outlines a plan of action and describes the logic of the algorithm. However, it is not specific enough, as it does not provide more detail as to what the algorithm will actually do to find the intersection of the two lists. I would rate it a 6/10."
+        },
+        {
+            "output": " Is there a way to optimize the algorithm to find the intersection of two given singly linked lists? No code required.",
+            "question": "I couldn't think of any solutions after the fact that the code needs to ru.",
+            "comment": " The answer given does not provide a satisfactory answer to the question asked. It does not provide any reasoning or solutions for how to optimize the given algorithm, nor does it provide any further insight into the question. I would rate it a 2/10.\nThank you! Your interview has concluded."
+        }
+    ],
+    "qkfxcEwLlH": [],
+    "anwOIGjJTE": [],
+    "ZlDkIktJmM": []
+}
